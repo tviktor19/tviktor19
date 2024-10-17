@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 # 💫 About Me:
-🔭 I’m a junior frontend developer passionate about creating clean and user-friendly web applications. I have experience in HTML, CSS, JavaScript, and modern frameworks like React. </br> I enjoy solving problems, learning new technologies, and continuously improving my skills.
+🔭 I’m a junior frontend developer passionate about creating clean and user-friendly web applications. </br> I have experience in HTML, CSS, JavaScript, and modern frameworks like React. </br> I enjoy solving problems, learning new technologies, and continuously improving my skills. </br>
 Feel free to explore my repositories and connect with me for collaboration!
 
 
